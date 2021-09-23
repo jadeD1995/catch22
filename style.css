@@ -1,0 +1,30 @@
+body{background-image:url('back ground.jpg');}
+
+h1 { color: floralwhite;
+ text-align: center;}
+
+/*this is a comment*/
+p{color: white;
+    font-size: 30px;
+    text-align: center;
+   }  /*this changes the coour in the parahs*/
+   
+ 
+   
+   h5{color: lawngreen;}
+   
+   h6 {color: lawngreen;}
+   
+   /*  this  a id*/
+   #link{
+       font-size: 80px;
+   }
+   
+   .textalign{
+       text-align: center;
+   }
+   
+   
+   
+image{ width: auto;
+}
